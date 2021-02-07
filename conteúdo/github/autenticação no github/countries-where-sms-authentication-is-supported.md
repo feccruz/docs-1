@@ -31,6 +31,7 @@ If your country is not on this list, then we aren't currently able to reliably d
 <li>Brunei</li>
 <li>Bulgaria</li>
 <li>Burundi</li>
+<li>Brasil</li>
 <li>Cambodia</li>
 <li>Canada</li>
 <li>Cape Verde</li>
